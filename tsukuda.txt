@@ -2,3 +2,4 @@ I'm tsukuda.
 I'm tsukuda.
 I'm in issueA.
 I'm in issueB.
+I'm in issueC.
